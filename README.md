@@ -1,2 +1,2 @@
-# bic.github.io
+# uwbic.github.io
 UW Bioinformatics Club Website
